@@ -104,13 +104,6 @@ extra_javascript:
 plugins:
   - autorefs
   - mkdocs-pdf
-  - rss:
-      match_path: blog/posts/.*
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
   - blog:
       blog_dir: "blog"
       draft: true
@@ -159,14 +152,8 @@ extra:
   #            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
 
   social:
-    # - icon: material/rss
-    #   link: https://datahonor.com/blog/feed_rss_created
-
     - icon: fontawesome/brands/github
       link: https://github.com/shenxiangzhuang
-
-    - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/MathewShen42
 
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/mathewshen

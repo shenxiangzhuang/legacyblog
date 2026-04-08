@@ -1,34 +1,9 @@
-{% extends "base.html" %}
-
-{% block announce %}
+{% extends "base.html" %} {% block announce %}
 <center>
-    You can follow by
-    <a href="https://datahonor.com/blog/feed_rss_created">
-        <strong>RSS</strong>
+    📢 本博客已迁移至
+    <a href="https://mathewshen.me">
+        <strong>mathewshen.me</strong>
     </a>
-    or
-    <a href="https://github.com/shenxiangzhuang">
-    <span class="twemoji">
-      {% include ".icons/fontawesome/brands/square-github.svg" %}
-    </span>
-        <strong>GitHub(<strong>shenxiangzhuang</strong>)</strong>
-    </a>
-    <!--  or-->
-    <!--  <a href="https://www.zhihu.com/people/shen-xiang-zhuang">-->
-    <!--    <strong>知乎</strong>-->
-    <!--  </a>-->
-    or
-    <!--暂时用 LLM in 2024 文章链接作为入口-->
-    <a href="https://mp.weixin.qq.com/s/wOqp6nHBAenK9wP2vIUS9g">
-    <span class="twemoji">
-      {% include ".icons/fontawesome/brands/wechat.svg" %}
-    </span>
-        <strong>WeChat(<strong>AI Glimpse</strong>)</strong>
-    </a>
+    ，请访问新站点获取最新内容。
 </center>
-{% endblock %}
-
-
-{% block content %}
-{{ super() }}
-{% endblock %}
+{% endblock %} {% block content %} {{ super() }} {% endblock %}
