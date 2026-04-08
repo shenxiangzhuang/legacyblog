@@ -23,17 +23,13 @@ docs = [
     "mkdocs-git-committers-plugin-2",
     "mkdocs-git-revision-date-localized-plugin",
 
-    "mkdocs-rss-plugin",
+
     "pre-commit",
     "mkdocstrings",
     "mkdocs-minify-plugin",
     "neoteroi-mkdocs",
     "mkdocs-pdf",
 ]
-
-
-[tool.uv]
-extra-index-url = ["https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple", "https://pypi.org/simple"]
 
 
 [tool.isort]
