@@ -1,1 +1,1 @@
---8<--  "https://raw.githubusercontent.com/shenxiangzhuang/shenxiangzhuang.github.io/refs/heads/master/docs/cs/os/ubuntu-usage.md"
+--8<--  "docs/cs/os/ubuntu-usage.md"
