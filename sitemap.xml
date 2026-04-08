@@ -1,267 +1,575 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://datahonor.com/blog/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2019/12/30/2019/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2024/12/28/2024_summary/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2019/12/30/2019/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2024/11/28/ai-town/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2024/12/28/2024_summary/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/09/06/ai_golden_age/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2024/11/28/ai-town/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/11/02/bert/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/09/06/ai_golden_age/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2019/01/19/chance/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/11/02/bert/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/02/20/dl_book/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2019/01/19/chance/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2024/08/21/ds/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/02/20/dl_book/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2022/12/12/graduate/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2024/08/21/ds/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/02/23/grpo_kl/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2022/12/12/graduate/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2024/02/07/lifelong-2023/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/02/23/grpo_kl/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2024/12/23/ai_think_2024/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2024/02/07/lifelong-2023/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/06/03/llm_kv_cache/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2024/12/23/ai_think_2024/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/03/08/llm_sps/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/06/03/llm_kv_cache/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2026/02/05/blog_migration_notice/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/03/08/llm_sps/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/11/24/google_scholar_new_features/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2026/02/05/blog_migration_notice/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2018/04/01/obscurant/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/11/24/google_scholar_new_features/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/01/23/oh_numpy_pytorch/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2018/04/01/obscurant/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2023/11/01/open-source-related/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/01/23/oh_numpy_pytorch/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/10/16/open_source_feedback/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2023/11/01/open-source-related/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/03/01/presentia/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/10/16/open_source_feedback/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/03/23/redis_lock/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/03/01/presentia/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/06/25/rust_and_python/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/03/23/redis_lock/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2019/06/19/wushuang/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/06/25/rust_and_python/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2018/07/07/strange-dream/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2019/06/19/wushuang/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2021/02/28/sysu-card/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2018/07/07/strange-dream/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2023/10/07/ten-years-old/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2021/02/28/sysu-card/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/11/23/toynlp/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2023/10/07/ten-years-old/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/05/08/toyrl/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/11/23/toynlp/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2025/12/27/wang_work/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/05/08/toyrl/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/2024/12/08/zhplot/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2025/12/27/wang_work/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/archive/2026/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/blog/2024/12/08/zhplot/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/archive/2025/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/algorithm/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/archive/2024/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/db/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/archive/2023/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/db/clickhouse/self-host/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/archive/2022/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/db/clickhouse/usage/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/archive/2021/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/distribution/hadoop/hadoop-linux/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/archive/2019/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/distribution/hive/tips/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/archive/2018/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/distribution/spark/spark-cloud/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/notice/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/distribution/spark/spark-linux/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E9%9A%8F%E7%AC%94/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/docker/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/good-stuff/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/network/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/os/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E5%BC%80%E6%BA%90/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/os/ubuntu-usage/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/nlp/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/ai/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/elixir/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/llm/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/js/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/project/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/python/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/engineering/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/python/build_python_pkg/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/statistics/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/python/python_data_analysis/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E5%9B%9E%E5%BF%86%E5%BD%95/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/python/tapp_0_motivation/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/paper/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/python/tapp_1_decorator/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E7%AE%97%E6%B3%95/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/python/tapp_2_context_manager/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/mle/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/python/tapp_3_annotations/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/odyssey/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/rust/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E6%97%A5%E8%AE%B0/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/cs/programming/scala/sbt_usage/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/datascience/dl/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E6%96%87%E5%AD%A6/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/datascience/dl/cuda/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E4%B9%A6%E8%AF%84/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/datascience/dl/paper/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/page/2/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/datascience/ml/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/page/3/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/datascience/ml/mle-mer/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/page/4/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/datascience/statistics/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/archive/2025/page/2/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/datascience/statistics/effect-size/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/page/2/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/datascience/statistics/probability-and-mathematical-statistics-books/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
     <url>
-         <loc>https://datahonor.com/blog/category/%E9%9A%8F%E7%AC%94/page/2/</loc>
-         <lastmod>2026-02-05</lastmod>
+         <loc>https://mathewshen.me/legacyblog/datascience/statistics/roc-auc/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/datascience/statistics/three-doors-and-three-prisoners/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/life/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/life/cookbook/boil/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/life/cookbook/saute/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/life/cookbook/stew/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/life/literature/books/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/aiops/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/aiops/conference/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/aiops/rca/paper/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/aiops/tsad/paper/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/aiops/tsad/product/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/aiops/tsfcst/paper/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/chc/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/chc/paper/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/llm/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/llm/engineering/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/llm/paper/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/mlsys/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/odyssey/mlsys/research/paper/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/project/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/backend/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/backend/python/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/backend/python/fastapi/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/db/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/db/mongodb/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/db/mysql/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/ddd/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/ddd/learning-ddd/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/devops/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/devops/vercel/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/distribution/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/frontend/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/observability/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/observability/es_kibana/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/observability/skywalking/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/se/test/unit-testing/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/tool/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/tool/diagram/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/tool/disk/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/tool/latex/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/tool/ubuntu/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/archive/2026/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/archive/2025/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/archive/2024/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/archive/2023/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/archive/2022/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/archive/2021/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/archive/2019/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/archive/2018/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/notice/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E9%9A%8F%E7%AC%94/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/good-stuff/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E5%BC%80%E6%BA%90/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/nlp/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/ai/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/llm/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/project/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/engineering/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/statistics/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E5%9B%9E%E5%BF%86%E5%BD%95/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/paper/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E7%AE%97%E6%B3%95/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/mle/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/odyssey/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E6%97%A5%E8%AE%B0/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E6%96%87%E5%AD%A6/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E4%B9%A6%E8%AF%84/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/page/2/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/page/3/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/page/4/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/archive/2025/page/2/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/page/2/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://mathewshen.me/legacyblog/blog/category/%E9%9A%8F%E7%AC%94/page/2/</loc>
+         <lastmod>2026-04-08</lastmod>
     </url>
 </urlset>
