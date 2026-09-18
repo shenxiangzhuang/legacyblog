@@ -1,0 +1,122 @@
+# 旧站内容对应表
+
+检查 109 个旧站 Markdown 页面：49 个有新版对应，其余 60 个跳首页。
+
+旧路径同时适用于 `datahonor.com`、`www.datahonor.com` 和 `mathewshen.me/legacyblog`；支持尾斜杠、无尾斜杠、`index.html`。
+
+AIOps 和 Crowdsourcing 索引跳对应专题；旧 LLM 索引正文为书评，跳新版 AI 书单。统计学索引的书评已迁移，课程列表未完整迁移。
+仅有相似主题或重复引言不算迁移；例如旧 Life 入口、AIOps 会议列表不映射到相关文章。
+
+| 旧源文件 | 旧路径 | 新版地址 |
+| --- | --- | --- |
+| `blog/index.md` | `/blog/` | https://mathewshen.me/ |
+| `blog/posts/2019.md` | `/blog/2019/12/30/2019/` | https://mathewshen.me/blog/2019/2019/ |
+| `blog/posts/2024.md` | `/blog/2024/12/28/2024_summary/` | https://mathewshen.me/blog/2024/2024-summary/ |
+| `blog/posts/ai-town.md` | `/blog/2024/11/28/ai-town/` | https://mathewshen.me/blog/2024/ai-town/ |
+| `blog/posts/ai_golden_age.md` | `/blog/2025/09/06/ai_golden_age/` | https://mathewshen.me/blog/2025/ai-golden-age/ |
+| `blog/posts/bert.md` | `/blog/2025/11/02/bert/` | https://mathewshen.me/blog/2025/bert/ |
+| `blog/posts/chance.md` | `/blog/2019/01/19/chance/` | https://mathewshen.me/blog/2019/chance/ |
+| `blog/posts/dl_book.md` | `/blog/2025/02/20/dl_book/` | https://mathewshen.me/blog/2025/books/ai-llm-dl/ |
+| `blog/posts/ds.md` | `/blog/2024/08/21/ds/` | https://mathewshen.me/blog/2024/ds/ |
+| `blog/posts/graduate.md` | `/blog/2022/12/12/graduate/` | https://mathewshen.me/blog/2022/graduate/ |
+| `blog/posts/grpo_kl.md` | `/blog/2025/02/23/grpo_kl/` | https://mathewshen.me/blog/2025/grpo-kl/ |
+| `blog/posts/lifelong_learning_2023.md` | `/blog/2024/02/07/lifelong-2023/` | https://mathewshen.me/blog/2024/lifelong-2023/ |
+| `blog/posts/llm_2024.md` | `/blog/2024/12/23/ai_think_2024/` | https://mathewshen.me/blog/2024/ai-think-2024/ |
+| `blog/posts/llm_kv_cache.md` | `/blog/2025/06/03/llm_kv_cache/` | https://mathewshen.me/blog/2025/llm-kv-cache/ |
+| `blog/posts/llm_sps.md` | `/blog/2025/03/08/llm_sps/` | https://mathewshen.me/blog/2025/llm-sps/ |
+| `blog/posts/migration_notice.md` | `/blog/2026/02/05/blog_migration_notice/` | https://mathewshen.me/ |
+| `blog/posts/newer_scholar.md` | `/blog/2025/11/24/google_scholar_new_features/` | https://mathewshen.me/blog/2025/google-scholar-new-features/ |
+| `blog/posts/obscurant.md` | `/blog/2018/04/01/obscurant/` | https://mathewshen.me/blog/2018/obscurant/ |
+| `blog/posts/oh_numpy_pytorch.md` | `/blog/2025/01/23/oh_numpy_pytorch/` | https://mathewshen.me/blog/2025/oh-numpy-pytorch/ |
+| `blog/posts/open-source.md` | `/blog/2023/11/01/open-source-related/` | https://mathewshen.me/blog/2023/open-source-related/ |
+| `blog/posts/open_source_thought.md` | `/blog/2025/10/16/open_source_feedback/` | https://mathewshen.me/blog/2025/open-source-feedback/ |
+| `blog/posts/presentia.md` | `/blog/2025/03/01/presentia/` | https://mathewshen.me/blog/2025/presentia/ |
+| `blog/posts/redis_lock.md` | `/blog/2025/03/23/redis_lock/` | https://mathewshen.me/blog/2025/redis-lock/ |
+| `blog/posts/rust_and_python.md` | `/blog/2025/06/25/rust_and_python/` | https://mathewshen.me/blog/2025/rust-and-python/ |
+| `blog/posts/searching.md` | `/blog/2019/06/19/wushuang/` | https://mathewshen.me/blog/2019/wushuang/ |
+| `blog/posts/strange-dream.md` | `/blog/2018/07/07/strange-dream/` | https://mathewshen.me/blog/2018/strange-dream/ |
+| `blog/posts/sysu-card.md` | `/blog/2021/02/28/sysu-card/` | https://mathewshen.me/blog/2021/sysu-card/ |
+| `blog/posts/ten.md` | `/blog/2023/10/07/ten-years-old/` | https://mathewshen.me/blog/2023/ten-years-old/ |
+| `blog/posts/toynlp.md` | `/blog/2025/11/23/toynlp/` | https://mathewshen.me/blog/2025/toynlp/ |
+| `blog/posts/toyrl.md` | `/blog/2025/05/08/toyrl/` | https://mathewshen.me/blog/2025/toyrl/ |
+| `blog/posts/wang_work.md` | `/blog/2025/12/27/wang_work/` | https://mathewshen.me/blog/2025/wang-work/ |
+| `blog/posts/zhplot.md` | `/blog/2024/12/08/zhplot/` | https://mathewshen.me/blog/2024/zhplot/ |
+| `cs/algorithm/index.md` | `/cs/algorithm/` | https://mathewshen.me/ |
+| `cs/db/clickhouse/self-host.md` | `/cs/db/clickhouse/self-host/` | https://mathewshen.me/ |
+| `cs/db/clickhouse/usage.md` | `/cs/db/clickhouse/usage/` | https://mathewshen.me/ |
+| `cs/db/index.md` | `/cs/db/` | https://mathewshen.me/ |
+| `cs/distribution/hadoop/hadoop-linux.md` | `/cs/distribution/hadoop/hadoop-linux/` | https://mathewshen.me/ |
+| `cs/distribution/hive/tips.md` | `/cs/distribution/hive/tips/` | https://mathewshen.me/ |
+| `cs/distribution/spark/spark-cloud.md` | `/cs/distribution/spark/spark-cloud/` | https://mathewshen.me/ |
+| `cs/distribution/spark/spark-linux.md` | `/cs/distribution/spark/spark-linux/` | https://mathewshen.me/ |
+| `cs/docker/index.md` | `/cs/docker/` | https://mathewshen.me/ |
+| `cs/network/index.md` | `/cs/network/` | https://mathewshen.me/ |
+| `cs/os/index.md` | `/cs/os/` | https://mathewshen.me/ |
+| `cs/os/ubuntu-usage.md` | `/cs/os/ubuntu-usage/` | https://mathewshen.me/ |
+| `cs/programming/elixir/index.md` | `/cs/programming/elixir/` | https://mathewshen.me/ |
+| `cs/programming/index.md` | `/cs/programming/` | https://mathewshen.me/ |
+| `cs/programming/js/index.md` | `/cs/programming/js/` | https://mathewshen.me/ |
+| `cs/programming/python/build_python_pkg.md` | `/cs/programming/python/build_python_pkg/` | https://mathewshen.me/ |
+| `cs/programming/python/index.md` | `/cs/programming/python/` | https://mathewshen.me/ |
+| `cs/programming/python/python_data_analysis.md` | `/cs/programming/python/python_data_analysis/` | https://mathewshen.me/ |
+| `cs/programming/python/tapp_0_motivation.md` | `/cs/programming/python/tapp_0_motivation/` | https://mathewshen.me/ |
+| `cs/programming/python/tapp_1_decorator.md` | `/cs/programming/python/tapp_1_decorator/` | https://mathewshen.me/ |
+| `cs/programming/python/tapp_2_context_manager.md` | `/cs/programming/python/tapp_2_context_manager/` | https://mathewshen.me/ |
+| `cs/programming/python/tapp_3_annotations.md` | `/cs/programming/python/tapp_3_annotations/` | https://mathewshen.me/ |
+| `cs/programming/rust/index.md` | `/cs/programming/rust/` | https://mathewshen.me/ |
+| `cs/programming/scala/sbt_usage.md` | `/cs/programming/scala/sbt_usage/` | https://mathewshen.me/ |
+| `datascience/dl/cuda.md` | `/datascience/dl/cuda/` | https://mathewshen.me/ |
+| `datascience/dl/index.md` | `/datascience/dl/` | https://mathewshen.me/ |
+| `datascience/dl/paper.md` | `/datascience/dl/paper/` | https://mathewshen.me/ |
+| `datascience/ml/index.md` | `/datascience/ml/` | https://mathewshen.me/ |
+| `datascience/ml/mle-mer.md` | `/datascience/ml/mle-mer/` | https://mathewshen.me/blog/2017/mle-erm/ |
+| `datascience/statistics/effect-size.md` | `/datascience/statistics/effect-size/` | https://mathewshen.me/blog/2021/p-value-effect-size/ |
+| `datascience/statistics/index.md` | `/datascience/statistics/` | https://mathewshen.me/blog/2025/books/probability-statistics/ |
+| `datascience/statistics/probability-and-mathematical-statistics-books.md` | `/datascience/statistics/probability-and-mathematical-statistics-books/` | https://mathewshen.me/blog/2025/books/probability-statistics/ |
+| `datascience/statistics/roc-auc.md` | `/datascience/statistics/roc-auc/` | https://mathewshen.me/blog/2020/roc-auc/ |
+| `datascience/statistics/three-doors-and-three-prisoners.md` | `/datascience/statistics/three-doors-and-three-prisoners/` | https://mathewshen.me/blog/2017/three-doors-and-three-prisoners/ |
+| `index.md` | `/` | https://mathewshen.me/ |
+| `life/cookbook/boil.md` | `/life/cookbook/boil/` | https://mathewshen.me/blog/2025/cookbook/boil/ |
+| `life/cookbook/saute.md` | `/life/cookbook/saute/` | https://mathewshen.me/blog/2025/cookbook/saute/ |
+| `life/cookbook/stew.md` | `/life/cookbook/stew/` | https://mathewshen.me/blog/2025/cookbook/stew/ |
+| `life/index.md` | `/life/` | https://mathewshen.me/ |
+| `life/literature/books.md` | `/life/literature/books/` | https://mathewshen.me/blog/2025/books/literature/ |
+| `odyssey/aiops/conference.md` | `/odyssey/aiops/conference/` | https://mathewshen.me/ |
+| `odyssey/aiops/index.md` | `/odyssey/aiops/` | https://mathewshen.me/blog/2025/aiops/ |
+| `odyssey/aiops/rca/paper.md` | `/odyssey/aiops/rca/paper/` | https://mathewshen.me/blog/2025/aiops/rca-paper/ |
+| `odyssey/aiops/tsad/paper.md` | `/odyssey/aiops/tsad/paper/` | https://mathewshen.me/blog/2025/aiops/tsad-paper/ |
+| `odyssey/aiops/tsad/product.md` | `/odyssey/aiops/tsad/product/` | https://mathewshen.me/ |
+| `odyssey/aiops/tsfcst/paper.md` | `/odyssey/aiops/tsfcst/paper/` | https://mathewshen.me/blog/2025/aiops/tsfcst-paper/ |
+| `odyssey/chc/index.md` | `/odyssey/chc/` | https://mathewshen.me/blog/2025/crowdsourcing/ |
+| `odyssey/chc/paper.md` | `/odyssey/chc/paper/` | https://mathewshen.me/blog/2025/crowdsourcing/papers/ |
+| `odyssey/index.md` | `/odyssey/` | https://mathewshen.me/ |
+| `odyssey/llm/engineering.md` | `/odyssey/llm/engineering/` | https://mathewshen.me/blog/2025/odyssey-llm/engineering/ |
+| `odyssey/llm/index.md` | `/odyssey/llm/` | https://mathewshen.me/blog/2025/books/ai-llm-dl/ |
+| `odyssey/llm/paper.md` | `/odyssey/llm/paper/` | https://mathewshen.me/blog/2025/odyssey-llm/paper-reading-list/ |
+| `odyssey/mlsys/index.md` | `/odyssey/mlsys/` | https://mathewshen.me/ |
+| `odyssey/mlsys/research/paper.md` | `/odyssey/mlsys/research/paper/` | https://mathewshen.me/ |
+| `project/index.md` | `/project/` | https://mathewshen.me/ |
+| `se/backend/index.md` | `/se/backend/` | https://mathewshen.me/ |
+| `se/backend/python/fastapi.md` | `/se/backend/python/fastapi/` | https://mathewshen.me/ |
+| `se/backend/python/index.md` | `/se/backend/python/` | https://mathewshen.me/ |
+| `se/db/index.md` | `/se/db/` | https://mathewshen.me/ |
+| `se/db/mongodb.md` | `/se/db/mongodb/` | https://mathewshen.me/ |
+| `se/db/mysql.md` | `/se/db/mysql/` | https://mathewshen.me/ |
+| `se/ddd/index.md` | `/se/ddd/` | https://mathewshen.me/ |
+| `se/ddd/learning-ddd.md` | `/se/ddd/learning-ddd/` | https://mathewshen.me/ |
+| `se/devops/index.md` | `/se/devops/` | https://mathewshen.me/ |
+| `se/devops/vercel.md` | `/se/devops/vercel/` | https://mathewshen.me/ |
+| `se/distribution/index.md` | `/se/distribution/` | https://mathewshen.me/ |
+| `se/frontend/index.md` | `/se/frontend/` | https://mathewshen.me/ |
+| `se/index.md` | `/se/` | https://mathewshen.me/ |
+| `se/observability/es_kibana.md` | `/se/observability/es_kibana/` | https://mathewshen.me/ |
+| `se/observability/index.md` | `/se/observability/` | https://mathewshen.me/ |
+| `se/observability/skywalking.md` | `/se/observability/skywalking/` | https://mathewshen.me/ |
+| `se/test/unit-testing.md` | `/se/test/unit-testing/` | https://mathewshen.me/ |
+| `tool/diagram.md` | `/tool/diagram/` | https://mathewshen.me/ |
+| `tool/disk.md` | `/tool/disk/` | https://mathewshen.me/ |
+| `tool/index.md` | `/tool/` | https://mathewshen.me/ |
+| `tool/latex.md` | `/tool/latex/` | https://mathewshen.me/ |
+| `tool/ubuntu.md` | `/tool/ubuntu/` | https://mathewshen.me/ |
+
+额外兼容仍被新版正文引用的 Hexo 地址：`/2020/05/02/ROC-AUC/` → `/blog/2020/roc-auc/`。
